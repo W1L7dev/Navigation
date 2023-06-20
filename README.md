@@ -12,6 +12,9 @@ Here is a list of the projects I made, with a short description of each one of t
 ## G
 - ### [GameOfLife](https://github.com/W1L7dev/GameOfLife) - A simple implementation of Conway's Game of Life with Pygame
 
+## N
+- ### [TerminalForms](https://github.com/W1L7dev/TerminalForms) - Add forms to your terminal applications
+
 ## L
 - ### [Logmaster](https://github.com/W1L7dev/Logmaster) - A simple logging library for Python
 
