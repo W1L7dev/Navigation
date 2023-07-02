@@ -16,6 +16,7 @@ Here is a list of the projects I made, with a short description of each one of t
 - ### [Logmaster](https://github.com/W1L7dev/Logmaster) - A simple logging library for Python
 
 ## P
+- ### [PackMan](https://github.com/W1L7dev/PackMan) - An app to install packages with installed package managers on your system
 - ### [Pathfinding](https://github.com/W1L7dev/Pathfinding) - A simple yet efficient pathfinder visualizer in Pygame
 
 ## T
