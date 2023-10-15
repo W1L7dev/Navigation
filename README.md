@@ -3,9 +3,6 @@
 
 Here is a list of the projects I made, with a short description of each one of them.
 
-## C
-- ### [CodeVoice](https://github.com/W1L7dev/CodeVoice) - A simple code generation app that gives you code from a voice input
-
 ## D
 - ### [Devbot](https://github.com/W1L7dev/devbot) - A general purpose discord bot made with Nextcord & Mafic
 
@@ -14,9 +11,6 @@ Here is a list of the projects I made, with a short description of each one of t
 
 ## L
 - ### [Logmaster](https://github.com/W1L7dev/Logmaster) - A simple logging library for Python
-
-## P
-- ### [PackMan](https://github.com/W1L7dev/PackMan) - An app to install packages with installed package managers on your system
 
 ## T
 - ### [TerminalForms](https://github.com/W1L7dev/TerminalForms) - Add forms to your terminal applications
